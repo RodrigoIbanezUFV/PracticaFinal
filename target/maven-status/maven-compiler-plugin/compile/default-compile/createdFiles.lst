@@ -1,0 +1,11 @@
+com\ufv\dis\turismo_backend\Model\Destino.class
+com\ufv\dis\turismo_backend\Model\Origen.class
+com\ufv\dis\turismo_backend\Util\LectorJSON$1.class
+com\ufv\dis\turismo_backend\Model\Periodo.class
+com\ufv\dis\turismo_backend\Util\WriteJson.class
+com\ufv\dis\turismo_backend\Model\TurismoComunidad.class
+com\ufv\dis\turismo_backend\Util\BorrarJson.class
+com\ufv\dis\turismo_backend\Util\LectorJSON.class
+com\ufv\dis\turismo_backend\TurismoBackendApplication.class
+com\ufv\dis\turismo_backend\App\JsonController.class
+com\ufv\dis\turismo_backend\Util\EditJson.class
